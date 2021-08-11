@@ -12,7 +12,7 @@ An end to end implementation of project which includes analysis of bank customer
   b. Method for dealing with imbalance in the dataset.<br>
   c. Creating and testing Models for Churn Prediction.<br>
 
-2. `Churn Model.pdf` is a pdf file of `Churn Model.ipynb` jupyter notebook for proper viewing and displaying of plots created using Plotly.<br>
+2. `Churn Model.pdf` and `Churn Model.html` are pdf and html files respectively of `Churn Model.ipynb` jupyter notebook for proper viewing and displaying of plots created using Plotly.<br>
 
 3. `churn.py` is python file consisting of code for creating a basic Dashboard which displays interacive Data Visualizations using Dash library.<br>
 4. `assets` is a folder consisting of css templates used in the creation of Dashboard. Dash library requires this folder for implementing CSS.<br>
